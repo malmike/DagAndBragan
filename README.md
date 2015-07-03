@@ -1,0 +1,1 @@
+This is a Integrated Management System designed to support Dag And Bragan with its daily operations. It is designed in PHP.
