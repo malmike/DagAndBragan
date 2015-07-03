@@ -1,0 +1,77 @@
+#Calendar {	
+}
+
+#Calendar td {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+#Calendar .cMonth {
+	font-weight:bold;
+	text-align:center;
+}
+
+#Calendar .wDays {
+	font-weight:bold;
+	background-color:#CCC;
+	text-align:center;
+}
+
+#Calendar .mNav {
+	font-weight:bold;
+	background-color:#000;
+	color:#fff;
+	text-align:center;
+}
+
+#Calendar table td a {
+	text-decoration:none;
+	color:#000;
+}
+
+#Calendar table td a:hover {
+	text-decoration:underline;
+}
+
+#Calendar table th a:hover {
+	text-decoration:none;
+	color:#fff;
+}
+
+
+#Calendar .withevent {
+	background-color:#CCC;
+	color:#000;
+	cursor:pointer;
+	text-align:left;
+	width: 14%;
+	height:100px;
+}
+
+#Calendar .noevent {
+	background-color:#FFF;
+	color:#000;
+	text-align:left;
+	width: 14%;
+	height:100px;
+}
+
+#Calendar .date {
+	text-align:right;
+}
+
+#Events {
+	width:300px;	
+}
+
+#Events h2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	margin-top:10px;
+}
+
+#Events span {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}

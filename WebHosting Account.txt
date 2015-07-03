@@ -1,0 +1,26 @@
+Your Account Details
+Your account is now active.
+Main Hosting Details
+Control panel username
+	cucch_15912814
+Control panel password 	********** MALmike21
+Control panel URL
+	cpanel.cuccfree.com
+MySQL username
+	cucch_15912814
+MYSQL databaseName
+	cucch_15912814_dagandbragan
+MySQL password
+	********** MALmike21
+MySQL hostname
+	sql110.cuccfree.com
+FTP username
+	cucch_15912814
+FTP password
+	********** MALmike21
+FTP host name 	ftp.cuccfree.com
+
+	
+Your Website URL's
+Home page
+	http://malmike.cuccfree.com

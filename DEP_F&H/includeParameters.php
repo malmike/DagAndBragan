@@ -1,0 +1,34 @@
+<?php
+	include'F&Hhome.php';
+	include'ViewData/viewChemicalList.php';
+	include'ViewData/viewEmployee.php';
+	include'ViewData/viewEquip.php';
+	include'ViewData/viewSupplierList.php';
+	include'ViewData/viewPurchaseOrder.php';
+	include'ViewData/viewDelivaryNote.php';
+	include'InsertDB/insChemicalsList.php';
+	include'InsertDB/insEquipment.php';
+	include'InsertDB/insSupplier.php';
+	include'InsertDB/insPurchaseOrder.php';
+	include'InsertDB/insPurchaseItem.php';
+	include'InsertDB/insDelivaryNote.php';
+	include'InsertDB/insDelivaryNoteItem.php';
+	include'InsertDB/insInventoryOut.php';
+    include'InsertDB/changeStatus.php';
+	include'EntryForms/ChemicalListForm.php';
+	include'EntryForms/EquipmentForm.php';
+	include'EntryForms/SupplierListForm.php';
+	include'EntryForms/purchaseOrderForm.php';
+	include'EntryForms/purchaseListForm.php';
+	include'EntryForms/selectPurchaseOrderForm.php';
+	include'EntryForms/delivaryNoteForm.php';
+	include'EntryForms/delivaryNoteItemForm.php';
+	include'EntryForms/selectDelivaryNoteForm.php';
+	include'EntryForms/inventoryOutForm.php';
+	include'../ExtraFunctions/Sanitize.php';
+	include'../ExtraFunctions/DatePicker.php';
+	include'../ConnectDB/connect.php';
+	include'../Login/logout.php';
+	include'../Login/auth.php';
+	
+?>
