@@ -3,7 +3,7 @@
 <?php
 
 	$username = "root";
-	$password = "";
+	$password = "root";
 	$hostname = "localhost";
 	$db = "dagandbragan";
 
